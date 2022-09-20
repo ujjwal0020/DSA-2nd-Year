@@ -1,6 +1,6 @@
-#ASSIGNMENT 1
+# ASSIGNMENT 1
 
-###QUESTIONS
+### QUESTIONS
 
 
  1 https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true
