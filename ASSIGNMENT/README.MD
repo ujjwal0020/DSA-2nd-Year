@@ -1,0 +1,9 @@
+https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/c-tutorial-functions/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/c-tutorial-strings/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/c-tutorial-pointer/problem?isFullScreen=true
