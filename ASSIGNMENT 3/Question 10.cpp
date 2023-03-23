@@ -22,3 +22,5 @@ int main() {
     printf("%ld %ld",sum-max,sum-min);
     return 0;
 }
+
+
