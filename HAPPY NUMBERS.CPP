@@ -9,6 +9,7 @@ public:
         }
         if (sum == 1) {
             return true;
+
         }
      else if (sum == 4) {
             return false; // Avoid getting stuck in an infinite loop for unhappy numbers
