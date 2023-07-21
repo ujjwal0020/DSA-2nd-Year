@@ -8,6 +8,7 @@ int main() {
 	while(t--)
 	{
 	int n,a,b,count=0;
+
 	cin>>n;
 	while(n--){
 	    cin>>a>>b;
