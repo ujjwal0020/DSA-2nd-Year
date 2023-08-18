@@ -9,7 +9,6 @@ int main() {
 	while(t--) {
 	    int n, k;
 	    cin>>n>>k;
-	    
 	    cout<< ceil(n/5.0)- ceil(k/5.0) <<endl;
 	}
 	return 0;
