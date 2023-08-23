@@ -8,7 +8,6 @@ public:
                     ans.pop_back();
                 }
             }
-
             else{
                 ans.push_back(s[i]);
             }
